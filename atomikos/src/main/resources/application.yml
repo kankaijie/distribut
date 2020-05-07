@@ -1,0 +1,43 @@
+#
+#server:
+#  port: 8080
+#
+#
+### order数据源
+#spring:
+#  datasource:
+#    ds1:
+#      driver-class-name: com.mysql.jdbc.Driver
+#      url: jdbc:mysql://127.0.0.1:3306/order?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8
+#      username: root
+#      password: root
+#
+### log数据源
+#    ds2:
+#      driver-class-name: com.mysql.jdbc.Driver
+#      url: jdbc:mysql://127.0.0.1:3306/log?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8
+#      username: root
+#      password: root
+#
+#  jta:
+#    atomikos:
+#      datasource:
+#        max-pool-size: 20
+#        borrow-connection-timeout: 60
+#      connectionfactory:
+#        max-pool-size: 20
+#        borrow-connection-timeout: 60
+#
+#
+#  main:
+#    allow-bean-definition-overriding: true
+#
+##  jpa:
+##    hibernate:
+##      ddl-auto: none
+##    show-sql: true
+#
+#mybatis:
+#  type-aliases-package:  com.org.atomikos.entity
+#  mapper-locations: classpath:mapper/*.xml
+#
