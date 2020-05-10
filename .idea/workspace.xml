@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab1b722a-7e8d-478a-9093-4dd176a067ff" name="Default" comment="分布式事务">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_alibaba_fastjson_1_2_34.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_caucho_hessian_4_0_38.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_codingapi_txlcn_txlcn_common_5_0_2_RELEASE.xml" />
@@ -14,14 +16,51 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_4_0_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_4.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_4.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_10_4.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_4.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_10_4.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_2_1.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_google_guava_guava_28_2_android.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" />
@@ -78,13 +117,19 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_10.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_4.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_4.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_29.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_34.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_29.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_34.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_29.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_34.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" />
@@ -102,12 +147,21 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_objenesis_objenesis_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_7_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_7_RELEASE.xml" />
@@ -118,15 +172,24 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_7_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_6_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_7_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_7_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_2_RELEASE.xml" />
@@ -148,104 +211,50 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_7_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_7_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_7_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_1_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_4_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_aop_5_2_6_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_beans_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_context_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_core_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_expression_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_6_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_orm_5_2_6_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_test_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_tx_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_web_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_web_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_6_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/doc/配置数据源/普通配置多个数据源.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/doc/配置数据源/用atomikos配置多个数据源管理.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/doc/配置数据源/用tx-lcn分布式事务.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-eureka/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-eureka/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-eureka/src/main/java/com/org/tx/eureka/demo/EurekaApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-eureka/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-eureka/src/test/java/com/org/tx/eureka/demo/EurekaApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-manager/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-manager/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-manager/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-manager/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-manager/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-manager/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-manager/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-manager/src/main/java/com/org/tx/manager/ManagerApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-manager/src/main/java/com/org/tx/manager/TestController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-manager/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-manager/src/test/java/com/org/tx/manager/ManagerApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/OrderApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/api/OrderInfoApi.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/config/BaseMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/controller/OrderController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/entity/Order.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/entity/OrderInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/entity/Pay.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/mapper/OrderInfoMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/mapper/OrderMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/mapper/PayMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/service/OrderInfoService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/service/OrderService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/service/PayService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/service/impl/OrderInfoServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/service/impl/OrderServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/service/impl/PayServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-order/src/test/java/com/org/tx/order/OrderApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/src/main/java/com/org/tx/pay/PayApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/src/main/java/com/org/tx/pay/client/OrderInfoClient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/src/main/java/com/org/tx/pay/config/BaseMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/src/main/java/com/org/tx/pay/controller/PayController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/src/main/java/com/org/tx/pay/entity/LogsInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/src/main/java/com/org/tx/pay/mapper/LogsInfoMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/src/main/java/com/org/tx/pay/service/PayService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/src/main/java/com/org/tx/pay/service/impl/PayServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-pay/src/test/java/com/org/tx/pay/ApplicationTests.java" />
-      <change beforePath="$PROJECT_DIR$/../distribut/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../distribut/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/../distribut/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../distribut/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/../distribut/.idea/misc.xml" afterPath="$PROJECT_DIR$/../distribut/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/../distribut/.idea/modules.xml" afterPath="$PROJECT_DIR$/../distribut/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/.txlcn/tx-order-8083.mv.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/doc/sql脚本/book.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/doc/sql脚本/log.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-eureka/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-eureka/.mvn/wrapper/MavenWrapperDownloader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-eureka/mvnw" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-eureka/mvnw.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../distribut/tx-eureka/pom.xml" />
       <change beforePath="$PROJECT_DIR$/../distribut/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../distribut/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../distribut/atomikos/doc/sql脚本/book.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../distribut/atomikos/doc/sql脚本/log.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../distribut/atomikos/doc/配置数据源/用atomikos配置多个数据源管理.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../distribut/atomikos/doc/配置数据源/配置多个数据源.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../distribut/atomikos/src/main/java/com/org/atomikos/service/impl/TestServiceImpl.java" afterPath="$PROJECT_DIR$/../distribut/atomikos/src/main/java/com/org/atomikos/service/impl/TestServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/../distribut/atomikos/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/../distribut/atomikos/src/main/resources/application.properties" />
-      <change beforePath="$PROJECT_DIR$/../distribut/atomikos/transaction-logs/springboot-mybatis.lck" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../distribut/atomikos/transaction-logs/springboot-mybatis52.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../distribut/distribut.iml" afterPath="$PROJECT_DIR$/../distribut/distribut.iml" />
-      <change beforePath="$PROJECT_DIR$/../distribut/pom.xml" afterPath="$PROJECT_DIR$/../distribut/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../distribut/transaction-logs/tmlog.lck" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../distribut/transaction-logs/tmlog21.log" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -279,7 +288,7 @@
         <entry file="file://$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/service/impl/OrderInfoServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="e#697#698#0" expanded="true" />
                 <element signature="e#746#747#0" expanded="true" />
@@ -292,7 +301,7 @@
         <entry file="file://$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/controller/OrderController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="326">
-              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+              <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -342,7 +351,7 @@
         <entry file="file://$PROJECT_DIR$/../distribut/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -364,8 +373,8 @@
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../distribut/atomikos/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="425">
+              <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -375,7 +384,7 @@
         <entry file="file://$PROJECT_DIR$/../distribut/tx-pay/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="42" column="21" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="42" selection-end-column="21" />
+              <caret line="42" column="21" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="42" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -917,8 +926,16 @@
       <workItem from="1588770685247" duration="37286000" />
       <workItem from="1588952380934" duration="10136000" />
       <workItem from="1588998757414" duration="653000" />
-      <workItem from="1589036097802" duration="40331000" />
+      <workItem from="1589036097802" duration="40598000" />
     </task>
+    <task id="LOCAL-00001" summary="分布式事务">
+      <created>1589125390593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589125390593</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -954,7 +971,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135732000" />
+    <option name="totallyTimeSpent" value="135999000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1045,6 +1062,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="分布式事务" />
+    <option name="LAST_COMMIT_MESSAGE" value="分布式事务" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1426,7 +1447,7 @@
     <entry file="file://$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/service/impl/OrderInfoServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
             <element signature="e#697#698#0" expanded="true" />
             <element signature="e#746#747#0" expanded="true" />
@@ -1437,7 +1458,7 @@
     <entry file="file://$PROJECT_DIR$/../distribut/tx-order/src/main/java/com/org/tx/order/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -1453,7 +1474,7 @@
     <entry file="file://$PROJECT_DIR$/../distribut/tx-pay/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="42" selection-end-column="21" />
+          <caret line="42" column="21" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="42" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1485,7 +1506,7 @@
     <entry file="file://$PROJECT_DIR$/../distribut/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1503,8 +1524,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../distribut/atomikos/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="425">
+          <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
           <folding />
         </state>
       </provider>
