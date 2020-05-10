@@ -7,12 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="atomikos" />
-        <module name="distribut" />
+        <module name="tx-eureka" />
+        <module name="tx-manager" />
+        <module name="tx-order" />
+        <module name="tx-pay" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="atomikos" target="1.8" />
       <module name="distribut" target="1.8" />
+      <module name="tx-eureka" target="1.8" />
+      <module name="tx-manager" target="1.8" />
+      <module name="tx-order" target="1.8" />
+      <module name="tx-pay" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

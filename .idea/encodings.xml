@@ -3,6 +3,10 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/../distribut" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../distribut/atomikos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../distribut/tx-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../distribut/tx-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../distribut/tx-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../distribut/tx-pay" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

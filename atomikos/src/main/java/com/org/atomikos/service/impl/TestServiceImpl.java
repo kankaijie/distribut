@@ -28,7 +28,6 @@ public class TestServiceImpl implements TestService{
     @Autowired
     private OrderInfoMapper orderInfoMapper;
 
-
     @Transactional(rollbackFor = Exception.class)
     @Override
     public void insertTest() {
@@ -43,8 +42,6 @@ public class TestServiceImpl implements TestService{
             }
 
 
-
-
             OrderInfo orderInfo=new OrderInfo();
             orderInfo.setMoney(new BigDecimal(7.89));
             orderInfo.setAddress("情雪湖");
@@ -56,10 +53,7 @@ public class TestServiceImpl implements TestService{
                 return;
             }
 
-
            int i=1/0;
-
-
 
         }catch (Exception e){
             log.info("==========插入异常========="+e);
