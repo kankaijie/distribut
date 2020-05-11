@@ -5,9 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/atomikos/atomikos.iml" filepath="$PROJECT_DIR$/atomikos/atomikos.iml" />
       <module fileurl="file://$PROJECT_DIR$/distribut.iml" filepath="$PROJECT_DIR$/distribut.iml" />
       <module fileurl="file://$PROJECT_DIR$/tx-eureka/tx-eureka.iml" filepath="$PROJECT_DIR$/tx-eureka/tx-eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../distribut/tx-manager/tx-manager.iml" filepath="$PROJECT_DIR$/../distribut/tx-manager/tx-manager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../distribut/tx-order/tx-order.iml" filepath="$PROJECT_DIR$/../distribut/tx-order/tx-order.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../distribut/tx-pay/tx-pay.iml" filepath="$PROJECT_DIR$/../distribut/tx-pay/tx-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-manager/tx-manager.iml" filepath="$PROJECT_DIR$/tx-manager/tx-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-order/tx-order.iml" filepath="$PROJECT_DIR$/tx-order/tx-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-pay/tx-pay.iml" filepath="$PROJECT_DIR$/tx-pay/tx-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../distribut/tx-product/tx-product.iml" filepath="$PROJECT_DIR$/../distribut/tx-product/tx-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../distribut/tx-zuul/tx-zuul.iml" filepath="$PROJECT_DIR$/../distribut/tx-zuul/tx-zuul.iml" />
     </modules>
   </component>
 </project>
