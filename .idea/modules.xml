@@ -8,8 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/tx-manager/tx-manager.iml" filepath="$PROJECT_DIR$/tx-manager/tx-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/tx-order/tx-order.iml" filepath="$PROJECT_DIR$/tx-order/tx-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/tx-pay/tx-pay.iml" filepath="$PROJECT_DIR$/tx-pay/tx-pay.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../distribut/tx-product/tx-product.iml" filepath="$PROJECT_DIR$/../distribut/tx-product/tx-product.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../distribut/tx-zuul/tx-zuul.iml" filepath="$PROJECT_DIR$/../distribut/tx-zuul/tx-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-product/tx-product.iml" filepath="$PROJECT_DIR$/tx-product/tx-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../distribut/tx-rabbitmq/tx-rabbitmq.iml" filepath="$PROJECT_DIR$/../distribut/tx-rabbitmq/tx-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-zuul/tx-zuul.iml" filepath="$PROJECT_DIR$/tx-zuul/tx-zuul.iml" />
     </modules>
   </component>
 </project>

@@ -9,8 +9,9 @@
         <option value="$PROJECT_DIR$/tx-order/pom.xml" />
         <option value="$PROJECT_DIR$/tx-pay/pom.xml" />
         <option value="$PROJECT_DIR$/tx-manager/pom.xml" />
-        <option value="$PROJECT_DIR$/../distribut/tx-zuul/pom.xml" />
-        <option value="$PROJECT_DIR$/../distribut/tx-product/pom.xml" />
+        <option value="$PROJECT_DIR$/tx-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/tx-product/pom.xml" />
+        <option value="$PROJECT_DIR$/../distribut/tx-rabbitmq/pom.xml" />
       </list>
     </option>
   </component>

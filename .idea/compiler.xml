@@ -12,6 +12,7 @@
         <module name="tx-order" />
         <module name="tx-pay" />
         <module name="tx-product" />
+        <module name="tx-rabbitmq" />
         <module name="tx-zuul" />
       </profile>
     </annotationProcessing>
@@ -23,6 +24,7 @@
       <module name="tx-order" target="1.8" />
       <module name="tx-pay" target="1.8" />
       <module name="tx-product" target="1.8" />
+      <module name="tx-rabbitmq" target="1.8" />
       <module name="tx-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
