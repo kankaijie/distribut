@@ -1,4 +1,4 @@
-package com.org.tx.rabbitmq.work.provider;
+package com.org.tx.rabbitmq.work.fair.provider;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -8,13 +8,13 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SendMessageTest {
+public class SendMessageFailTest {
 
     @Autowired
-    private SendMessageWorkController sendMessageWorkController;
+    private SendMessageWorkFailController sendMessageWorkController;
 
     @Test
-    public void sendMessageTest(){
+    public void sendMessageFailTest(){
         System.out.println("======测试工作队列模式，天青色等烟雨======");
         sendMessageWorkController.sendMessage();
     }

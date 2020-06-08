@@ -1,4 +1,4 @@
-package com.org.tx.rabbitmq.work.customer;
+package com.org.tx.rabbitmq.topic.customer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -10,19 +10,19 @@ import java.io.IOException;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ReceiverTest {
+public class ReceiverTopicTest {
 
     @Autowired
-    private DireReceiverWorkOne direReceiverWorkOne;
+    private DirectTopicOne directTopicOne;
 
     @Autowired
-    private DireReceiverWorkTwo direReceiverWorkTwo;
+    private  DirectTopicTwo directTopicTwo;
 
     @Test
-    public void receiverTest() throws IOException {
+    public void receiverTopicTest() throws IOException {
 
-        direReceiverWorkOne.processOne("====我是workOne====");
-        direReceiverWorkTwo.processTwo("====我是workTwo====");
+        directTopicOne.sendMessage("====我是Topic模式One====");
+        directTopicTwo.sendMessage("====我是Topic模式Two====");
 
     }
 }

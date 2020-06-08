@@ -14,13 +14,11 @@ class TxRabbitmqApplicationTests {
 	@Autowired
 	private SendMessageController sendMessageController;
 
-	@Autowired
-	private DirectReceiver directReceiver;
 
-	@Test
+
+
 	void contextLoads() {
-	//	sendMessageController.sendMessage();
-		directReceiver.process("我消费了");
+
 	}
 
 }

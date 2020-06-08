@@ -1,5 +1,6 @@
 package com.org.tx.rabbitmq.simple.provider;
 
+import org.junit.Test;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
@@ -16,6 +17,8 @@ public class SendMessageController {
     @Autowired
   private   RabbitTemplate rabbitTemplate;  //使用RabbitTemplate,这提供了接收/发送等等方法
 
+
+
     public void sendMessage() {
         String messageId = String.valueOf(UUID.randomUUID());
         String messageData = "test message, hello!";
@@ -28,4 +31,5 @@ public class SendMessageController {
         rabbitTemplate.convertAndSend("TestDirectExchange", "TestDirectRouting", "天青色等烟雨");
 
     }
+
 }

@@ -1,4 +1,4 @@
-package com.org.tx.rabbitmq.work.provider;
+package com.org.tx.rabbitmq.work.poll.provider;
 
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,7 +14,7 @@ public class SendMessageWorkController {
     public void sendMessage(){
         for(int i=1;i<=20;i++){
             String message="我是工作队列模式=="+i;
-            rabbitTemplate.convertAndSend("work_queue",message);
+            rabbitTemplate.convertAndSend("work_queue_poll",message);
             System.out.println(" [x] Sent '" + message + "'");
             try {
                 Thread.sleep(i*100);

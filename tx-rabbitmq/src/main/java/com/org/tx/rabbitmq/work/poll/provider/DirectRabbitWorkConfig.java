@@ -1,4 +1,4 @@
-package com.org.tx.rabbitmq.work.provider;
+package com.org.tx.rabbitmq.work.poll.provider;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.context.annotation.Bean;
@@ -9,6 +9,6 @@ public class DirectRabbitWorkConfig {
 
     @Bean
     public Queue queueWork(){
-        return new Queue("work_queue",true);
+        return new Queue("work_queue_poll",true);
     }
 }
